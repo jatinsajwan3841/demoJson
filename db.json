@@ -1,0 +1,8 @@
+{
+  users:{
+    { email: "check", password: "check" },
+    { email: "check", password: "check" },
+    { email: "check", password: "check" },
+    { email: "check", password: "check" },
+  }
+}
